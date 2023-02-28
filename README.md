@@ -1,26 +1,20 @@
 # Termux Banner
-#Script by Deepak
+#Script by Deepak Sharma ❤️
 
 ## Installation :
+1) pkg install git
 
-1) git clone https://github.com/MADDOX-69/Termux-Banner
+2) git clone https://github.com/MADDOX-69/Termux-Banner-Dipak
 
+3)cd Termux-Banner 
 
-2) cd Termux-Banner
+4) chmod +x requirement.sh
 
+5) chmod +x t-ban.sh
 
-3) chmod +x requirement.sh
+6) bash requirement.sh ///(installation required)
 
-
-4) chmod +x t-ban.sh
-
-
-5) bash requirement.sh
-
-
-6) bash t-ban.sh
-
-
+7)bash t-ban.sh
 
 ## Remove Logo :
 
