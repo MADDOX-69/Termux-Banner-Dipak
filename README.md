@@ -6,7 +6,7 @@
 
 2) git clone https://github.com/MADDOX-69/Termux-Banner-Dipak
 
-3)cd Termux-Banner 
+3) cd Termux-Banner 
 
 4) chmod +x requirement.sh
 
@@ -14,7 +14,7 @@
 
 6) bash requirement.sh ///(installation required)
 
-7)bash t-ban.sh
+7) bash t-ban.sh
 
 ## Remove Logo :
 
